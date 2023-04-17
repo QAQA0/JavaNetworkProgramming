@@ -6,7 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
 //0410 수업 자료
-public class Main {
+public class ServerExample {
 
     private static ServerSocket serverSocket;
     public static void main(String[] args) {
