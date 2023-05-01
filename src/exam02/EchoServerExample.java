@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
 //0410 수업 자료
-public class EchoServer {
+public class EchoServerExample {
     
     private static ServerSocket serverSocket;
     public static void main(String[] args) {
